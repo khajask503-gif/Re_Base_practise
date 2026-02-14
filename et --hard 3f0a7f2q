@@ -1,0 +1,107 @@
+[33md2fb889[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/SOP-Final-Test[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/feature/SOP-Final-Test
+[33md2fb889[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/SOP-Final-Test[m[33m)[m HEAD@{1}: rebase (pick): KHAJADraft 2
+[33m5614174[m HEAD@{2}: rebase (pick): Khaja _Draft 1
+[33m3f0a7f2[m HEAD@{3}: rebase (pick): These is the final squash of 1,2,3,4,5 commits
+[33mf72efc1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: rebase (start): checkout main
+[33mbd715f7[m HEAD@{5}: checkout: moving from main to feature/SOP-Final-Test
+[33mf72efc1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from feature/SOP-Final-Test to main
+[33mbd715f7[m HEAD@{7}: commit: KHAJADraft 2
+[33m5d53651[m HEAD@{8}: commit: Khaja _Draft 1
+[33m7f70f0a[m HEAD@{9}: checkout: moving from main to feature/SOP-Final-Test
+[33mf72efc1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{10}: commit: SOP Draft 3
+[33m1d411eb[m HEAD@{11}: commit: SOP Draft 2
+[33m3b80ca0[m HEAD@{12}: commit: SOP Draft 1
+[33m334f10a[m HEAD@{13}: checkout: moving from feature/SOP-Final-Test to main
+[33m7f70f0a[m HEAD@{14}: rebase (finish): returning to refs/heads/feature/SOP-Final-Test
+[33m7f70f0a[m HEAD@{15}: rebase (squash): These is the final squash of 1,2,3,4,5 commits
+[33m3934e59[m HEAD@{16}: rebase (squash): # This is a combination of 2 commits.
+[33m1d85e32[m HEAD@{17}: rebase (start): checkout head~3
+[33m9ec0034[m HEAD@{18}: rebase (finish): returning to refs/heads/feature/SOP-Final-Test
+[33m9ec0034[m HEAD@{19}: rebase (pick): These is Squah of 4&5 commits
+[33m9504641[m HEAD@{20}: rebase (pick): Work 3
+[33m1d85e32[m HEAD@{21}: rebase (squash): Thes is 1 & 2 commits Squash
+[33mab0a7b8[m HEAD@{22}: rebase (start): checkout head~4
+[33mfa84927[m HEAD@{23}: rebase (finish): returning to refs/heads/feature/SOP-Final-Test
+[33mfa84927[m HEAD@{24}: rebase (start): checkout head~2
+[33mfa84927[m HEAD@{25}: rebase (finish): returning to refs/heads/feature/SOP-Final-Test
+[33mfa84927[m HEAD@{26}: rebase (squash): These is Squah of 4&5 commits
+[33m2419f83[m HEAD@{27}: rebase (start): checkout HEAD~2
+[33m74c77dc[m HEAD@{28}: commit: Work 5
+[33m2419f83[m HEAD@{29}: commit: Work 4
+[33me435535[m HEAD@{30}: commit: Work 3
+[33md7443dd[m HEAD@{31}: commit: Work 2
+[33mab0a7b8[m HEAD@{32}: commit: Work 1
+[33m334f10a[m HEAD@{33}: checkout: moving from main to feature/SOP-Final-Test
+[33m334f10a[m HEAD@{34}: checkout: moving from feature/Rebase_Practise to main
+[33m96245d4[m HEAD@{35}: commit (amend): This is a combination of 2 commits.
+[33m484f0ea[m HEAD@{36}: rebase (finish): returning to refs/heads/feature/Rebase_Practise
+[33m484f0ea[m HEAD@{37}: rebase (squash): This is a combination of 2 commits.
+[33mf51f2ce[m HEAD@{38}: rebase (start): checkout head~2
+[33mfa16c09[m HEAD@{39}: rebase (finish): returning to refs/heads/feature/Rebase_Practise
+[33mfa16c09[m HEAD@{40}: rebase (squash): Khaja: Final Mastery Squash Complete - All Test Cases Added#
+[33m576d76a[m HEAD@{41}: rebase (start): checkout head~2
+[33m8e448e6[m HEAD@{42}: rebase (abort): returning to refs/heads/feature/Rebase_Practise
+[33m334f10a[m HEAD@{43}: rebase (start): checkout head~3
+[33m8e448e6[m HEAD@{44}: commit: Draft 3
+[33m576d76a[m HEAD@{45}: commit: Draft 2
+[33mf51f2ce[m HEAD@{46}: commit: Draft 1
+[33m334f10a[m HEAD@{47}: checkout: moving from main to feature/Rebase_Practise
+[33m334f10a[m HEAD@{48}: checkout: moving from feature/squash-test to main
+[33md26ac95[m HEAD@{49}: checkout: moving from main to feature/squash-test
+[33m334f10a[m HEAD@{50}: rebase (finish): returning to refs/heads/main
+[33m334f10a[m HEAD@{51}: rebase (squash): Work in progress 1
+[33m86d4291[m HEAD@{52}: rebase (squash): # This is a combination of 2 commits.
+[33mdaefcd9[m HEAD@{53}: rebase (start): checkout HEAD~3
+[33m2b3c86f[m HEAD@{54}: commit: Work in progress 3 - final fix
+[33m2f1b082[m HEAD@{55}: commit: Work in progress 2 - debugging
+[33mdaefcd9[m HEAD@{56}: commit: Work in progress 1
+[33md26ac95[m HEAD@{57}: checkout: moving from feature/squash-test to main
+[33md26ac95[m HEAD@{58}: checkout: moving from main to feature/squash-test
+[33md26ac95[m HEAD@{59}: checkout: moving from main to main
+[33md26ac95[m HEAD@{60}: checkout: moving from feature/khaja-product-validation to main
+[33md26ac95[m HEAD@{61}: rebase (finish): returning to refs/heads/feature/khaja-product-validation
+[33md26ac95[m HEAD@{62}: rebase (start): checkout main
+[33m8e0935c[m HEAD@{63}: checkout: moving from main to feature/khaja-product-validation
+[33md26ac95[m HEAD@{64}: checkout: moving from feature/vinod-payments to main
+[33md26ac95[m HEAD@{65}: pull origin main: Fast-forward
+[33mf0c7bd2[m HEAD@{66}: checkout: moving from main to feature/vinod-payments
+[33md26ac95[m HEAD@{67}: pull origin: Fast-forward
+[33m749292b[m HEAD@{68}: checkout: moving from main to main
+[33m749292b[m HEAD@{69}: checkout: moving from feature/khaja-product-validation to main
+[33m8e0935c[m HEAD@{70}: rebase (finish): returning to refs/heads/feature/khaja-product-validation
+[33m8e0935c[m HEAD@{71}: rebase (pick): Khaja: Initial product validation script 2
+[33m07ece3e[m HEAD@{72}: rebase (pick): Khaja: Initial product validation script
+[33m749292b[m HEAD@{73}: rebase (start): checkout main
+[33md0660c3[m HEAD@{74}: checkout: moving from main to feature/khaja-product-validation
+[33m749292b[m HEAD@{75}: pull origin main: Fast-forward
+[33m707de4a[m HEAD@{76}: checkout: moving from feature/vinod-payments to main
+[33mf0c7bd2[m HEAD@{77}: checkout: moving from main to feature/vinod-payments
+[33m707de4a[m HEAD@{78}: checkout: moving from feature/vinod-payments to main
+[33mf0c7bd2[m HEAD@{79}: commit: Vinod: STEP: 2 Added transaction validation
+[33mc7aae96[m HEAD@{80}: commit: Vinod: STEP :3 Added payment gateway foundation
+[33m707de4a[m HEAD@{81}: checkout: moving from main to feature/vinod-payments
+[33m707de4a[m HEAD@{82}: checkout: moving from feature/khaja-product-validation to main
+[33md0660c3[m HEAD@{83}: commit: Khaja: Initial product validation script 2
+[33me410e49[m HEAD@{84}: commit: Khaja: Initial product validation script
+[33m707de4a[m HEAD@{85}: checkout: moving from main to feature/khaja-product-validation
+[33m707de4a[m HEAD@{86}: checkout: moving from main to main
+[33m707de4a[m HEAD@{87}: checkout: moving from feature/login-test to main
+[33m707de4a[m HEAD@{88}: rebase (finish): returning to refs/heads/feature/login-test
+[33m707de4a[m HEAD@{89}: rebase (start): checkout main
+[33mcbe90fb[m HEAD@{90}: checkout: moving from feature/login-test to feature/login-test
+[33mcbe90fb[m HEAD@{91}: checkout: moving from main to feature/login-test
+[33m707de4a[m HEAD@{92}: pull origin main: Fast-forward
+[33m761e368[m HEAD@{93}: checkout: moving from feature/login-test to main
+[33mcbe90fb[m HEAD@{94}: rebase (finish): returning to refs/heads/feature/login-test
+[33mcbe90fb[m HEAD@{95}: rebase (pick): Feature: Added login step 2
+[33mcdae8cd[m HEAD@{96}: rebase (pick): Feature: Added login step 1
+[33m761e368[m HEAD@{97}: rebase (start): checkout main
+[33m8106a28[m HEAD@{98}: checkout: moving from main to feature/login-test
+[33m761e368[m HEAD@{99}: commit: Main: Config Update B
+[33m449a748[m HEAD@{100}: commit: Main: Config Update A
+[33m84b74d4[m HEAD@{101}: checkout: moving from feature/login-test to main
+[33m8106a28[m HEAD@{102}: commit: Feature: Added login step 2
+[33m0ef3642[m HEAD@{103}: commit: Feature: Added login step 1
+[33m84b74d4[m HEAD@{104}: checkout: moving from main to feature/login-test
+[33m84b74d4[m HEAD@{105}: Branch: renamed refs/heads/master to refs/heads/main
+[33m84b74d4[m HEAD@{107}: commit (initial): Setup merge
