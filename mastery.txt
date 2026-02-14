@@ -2,3 +2,5 @@ Feature part 1
 Feature part 2
 This is the Amend _1
 This is the Amend _2
+This is the Amend _1
+This is the Amend _6
