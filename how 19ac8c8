@@ -1,0 +1,176 @@
+[33mcommit 3a788c016a633cfe7b920ebc654471afd10af5a0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/debug-selenium-locators[m[33m)[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sun Feb 15 09:39:54 2026 +0530
+
+    Automation: Add logout features
+
+[33mcommit 19ac8c8d9c5576f02a4698f36f50c8ac28ded3c1[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sun Feb 15 09:37:20 2026 +0530
+
+    Automation: Update locators for V2 UI
+
+[33mcommit 9b00f2b518cd5bd05d4358950640de598743f07b[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sun Feb 15 09:37:18 2026 +0530
+
+    Automation: Add login locator
+
+[33mcommit d706132fa35ce19c63ab471030f10ea487ce37a9[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sun Feb 15 09:37:16 2026 +0530
+
+    Automation: Setup browser config
+
+[33mcommit 36c0acbf9e13e400211293137dce65a45cf6fa7e[m[33m ([m[1;32mmain[m[33m)[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sun Feb 15 07:45:39 2026 +0530
+
+    Khaja: Critical Selenium Fix
+
+[33mcommit d68ef1a62dd0a05d625834a8bb832fe9ccc9b557[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 13:00:34 2026 +0530
+
+     These is last ammend commit
+
+[33mcommit e04e3066a226097bfa6bc49edce5bc1ab1dbe604[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 12:53:35 2026 +0530
+
+     Ammend commit for test
+
+[33mcommit 483c1a3cb28bd74a4a61e6f25b930e391a5071d2[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 12:50:07 2026 +0530
+
+     First commit for test
+
+[33mcommit f2fa175a3561e6a1b67f700de5e036f69e689607[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 11:59:55 2026 +0530
+
+    KHAJADraft 2
+
+[33mcommit 39e02d8b4f258c6e8634657289014dc079c7dc54[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 11:59:53 2026 +0530
+
+    Khaja _Draft 1
+
+[33mcommit bb89d22af972c74c32a7c2e0f5db1fca271c6c1f[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 10:03:15 2026 +0530
+
+    These is the final squash of 1,2,3,4,5 commits
+    
+    $These is Squah of 4&5 commits
+
+[33mcommit f72efc11820b06e0b5699f91e602cb6d5eda6bae[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 11:42:57 2026 +0530
+
+    SOP Draft 3
+
+[33mcommit 1d411eb2809d81b7bed404e3e85d8ce03ecfdeff[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 11:42:57 2026 +0530
+
+    SOP Draft 2
+
+[33mcommit 3b80ca0b6e2e779543dcf6278be794a3ecde9a3e[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Sat Feb 14 11:42:56 2026 +0530
+
+    SOP Draft 1
+
+[33mcommit 334f10a68b068688c662c5e4bb562f121eac6bb4[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 22:29:20 2026 +0530
+
+    Work in progress 1
+    
+    Work in progress 2 - debugging
+    
+    Work in progress 3 - final fix
+
+[33mcommit d26ac95cbfb39b54927b1e45f3941e70e1067c98[m
+Merge: 749292b 8e0935c
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 19:07:36 2026 +0530
+
+    Merge pull request #3 from khajask503-gif/feature/khaja-product-validation
+    
+    Feature/khaja product validation Final EOD Merge
+
+[33mcommit 8e0935c8300c475ecbc33a43c6ae0bc9aa9dfb03[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 14:09:27 2026 +0530
+
+    Khaja: Initial product validation script 2
+
+[33mcommit 07ece3e69973b23988336382bf768df56221fa27[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 14:07:42 2026 +0530
+
+    Khaja: Initial product validation script
+
+[33mcommit 749292b9eebdfb8b18f5dbb17084f2da3b5e9b9b[m
+Merge: 707de4a f0c7bd2
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 14:26:42 2026 +0530
+
+    Merge pull request #2 from khajask503-gif/feature/vinod-payments
+    
+    Feature/vinod payments - Vinfod afternoon Merge of his branch after completion
+
+[33mcommit f0c7bd2fcdf8bcd0c911baed31d02ef1661095f3[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 14:18:09 2026 +0530
+
+    Vinod: STEP: 2 Added transaction validation
+
+[33mcommit c7aae96b1881eb8678eba17341c59e56f7987ba6[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 14:18:07 2026 +0530
+
+    Vinod: STEP :3 Added payment gateway foundation
+
+[33mcommit 707de4a37fcc753a853bec1a97dfebcb9f460b64[m
+Merge: 84b74d4 cbe90fb
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 12:51:32 2026 +0530
+
+    Merge pull request #1 from khajask503-gif/feature/login-test
+    
+    Feature/login test approved
+
+[33mcommit cbe90fb526ac22f6c338b5f7570672396901be59[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 11:33:15 2026 +0530
+
+    Feature: Added login step 2
+
+[33mcommit cdae8cd4b388ab4cefa2a585210836a702026c03[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 11:33:13 2026 +0530
+
+    Feature: Added login step 1
+
+[33mcommit 761e3687d119ba14a1cb5bdf281f7f12dec8c05a[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 11:39:38 2026 +0530
+
+    Main: Config Update B
+
+[33mcommit 449a74880148edcf57a5fe45a28609b7723d2e8f[m
+Author: khajask503-gif <khajask503@gmail.com>
+Date:   Fri Feb 13 11:39:36 2026 +0530
+
+    Main: Config Update A
+
+[33mcommit 84b74d496c47866ce17cfa8896dce3c0944526b3[m
+Author: Khaja_Pr_Apprive_ <Khajask503@gmail.com>
+Date:   Fri Feb 13 11:17:41 2026 +0530
+
+    Setup merge
